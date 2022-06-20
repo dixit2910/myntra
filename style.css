@@ -1,0 +1,41 @@
+.la img{
+    width: 7%;
+    height: 7%;
+    padding: 20px 10px;
+
+}
+.la{
+    display: flex;
+     
+
+
+}
+nav ul li{
+    list-style: none;
+    padding: 2%;
+    
+}
+.space-between{
+    justify-content: space-between;
+
+}
+.item-center{
+    justify-content: center;
+}
+.justify-center{
+    justify-content: center;
+} 
+.Profile {
+    padding: 15px 0px; 
+
+} 
+.Wishlist{
+    padding: 15px 0;
+}
+.Bag{
+    padding: 15px 0;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
